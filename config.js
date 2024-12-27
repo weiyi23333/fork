@@ -2,7 +2,7 @@ const config = {
   mode: "in", // 签到:in,签退:out
   accounts: [
     {
-      username: "17314104003", //用户名
+      username: "173141040", //用户名
           password: "3425076566zxy", //密码
       openId: "", //微信小程序抓包openid(可选)
       unionId: "", //微信小程序抓包unionId(可选)
